@@ -1,0 +1,16 @@
+{
+  "presets": [
+    "react",
+    [
+      "env",
+      {
+        "targets": {
+          "browserlist": [
+            ">2%",
+            "last 2 versions"
+          ]
+        }
+      }
+    ]
+  ]
+}
