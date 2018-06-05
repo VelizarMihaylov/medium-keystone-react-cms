@@ -15,6 +15,7 @@ npm install
 Once all node modules are installed 
 
 ```
+npm run compile
 npm start
 ``` 
 
